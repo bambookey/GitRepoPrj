@@ -1,5 +1,0 @@
-#GitRepoPrj
-#TEST
-#TTT
-#$$$
-#CCC
